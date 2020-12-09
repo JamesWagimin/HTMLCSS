@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0e96dff-cc5b-48ce-a0bf-b5c4f5447747" name="Default Changelist" comment="test push">
-      <change afterPath="$PROJECT_DIR$/002/1Homepage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002/2Artikel.html" afterDir="false" />
+    <list default="true" id="b0e96dff-cc5b-48ce-a0bf-b5c4f5447747" name="Default Changelist" comment="link van Home naar artikel.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/1Homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/002/1Homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/2Artikel.html" beforeDir="false" afterPath="$PROJECT_DIR$/002/2Artikel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/002/2Artikel.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Index.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1lPdISdMfiwRXjXb5FfZrqmtFuU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -50,7 +55,7 @@
       <updated>1607502579559</updated>
       <workItem from="1607502580698" duration="1131000" />
       <workItem from="1607503725623" duration="1110000" />
-      <workItem from="1607505038860" duration="3181000" />
+      <workItem from="1607505038860" duration="6591000" />
     </task>
     <task id="LOCAL-00001" summary="test push">
       <created>1607506515896</created>
@@ -59,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607506515896</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="link van Home naar artikel.">
+      <created>1607509615163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607509615163</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test push" />
-    <option name="LAST_COMMIT_MESSAGE" value="test push" />
+    <MESSAGE value="link van Home naar artikel." />
+    <option name="LAST_COMMIT_MESSAGE" value="link van Home naar artikel." />
   </component>
 </project>
